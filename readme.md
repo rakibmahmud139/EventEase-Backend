@@ -4,39 +4,38 @@
 
 1. **User Registration**
    - **URL**: `https://event-ease-backend-five.vercel.app/api/v1/auth/register`
-     ```
+   
 
 2. **User Login**
    - **URL**: `https://event-ease-backend-five.vercel.app/api/v1/auth/login`
-     ```
+     
 
 ### Event Management
 
 3. **Create Event**
    - **URL**: `https://event-ease-backend-five.vercel.app/api/v1/events/create`
-     ```
+     
 
 4. **Get All Events**
    - **URL**: `https://event-ease-backend-five.vercel.app/api/v1/events`
-     ```
+     
 
 5. **Get Single Event**
    - **URL**: `https://event-ease-backend-five.vercel.app/api/v1/events/:id`
-     ```
+   
 
 6. **Update Event**
    - **URL**: `https://event-ease-backend-five.vercel.app/api/v1/events/:id`
-     ```
+   
 
 7. **Delete Event**
    - **URL**: `https://event-ease-backend-five.vercel.app/api/v1/events/:id`
-     ```
+     
 
 ### Attendee Registration
 
 8. **Register for Event**
    - **URL**: `https://event-ease-backend-five.vercel.app/api/v1/events/:id/register`
----
 
 ## Authentication Flow
 
